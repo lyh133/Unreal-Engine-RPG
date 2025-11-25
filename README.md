@@ -20,9 +20,8 @@ walk jog sprint
 
 # Watch the Video
 
-[![Watch the video](https://img.youtube.com/vi/iFtPwbyxWeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
+[![8 Ways strafe movement](https://img.youtube.com/vi/iFtPwbyxWeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
 
-Click the image above to watch the video on YouTube.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/40ce59b0-8cd2-4e69-a46b-2a402be2697b" />
 
