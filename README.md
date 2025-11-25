@@ -15,8 +15,7 @@ fully modular character imported from DazStudio
 
 ### Animation System
 8 Ways strafe movement with start and stop
-walk jog sprint
-[![Watch the video](https://img.youtube.com/vi/iFtPwbyxWeM/hqdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
+walk jog sprint [![Watch the video](https://img.youtube.com/vi/iFtPwbyxWeM/hqdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
 
 ### Combat System
 Details...
