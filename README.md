@@ -27,7 +27,7 @@ walk jog sprint implemented with distance matching
 
 #### free camera locomotion with turning, start and stop
 walk jog sprint implemented with distance matching
-[![free camera locomotion](https://img.youtube.com/vi/K6sNZNwI1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=K6sNZNwI1U)
+[![free camera locomotion](https://img.youtube.com/vi/_K6sNZNwI1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=_K6sNZNwI1U)
 
 ### Combat System
 Details...
