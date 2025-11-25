@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Player](#player)
-  - [Movement System](#movement-system)
+  - [Animation System](#animation-system)
   - [Combat System](#combat-system)
 - [AI](#ai)
 - [Abilities](#abilities)
@@ -11,9 +11,11 @@
 Write intro here...
 
 ## Player
+fully modular character imported from DazStudio
 
-### Movement System
-Details...
+### Animation System
+8 Ways strafe movement with start and stop
+walk jog sprint
 
 ### Combat System
 Details...
