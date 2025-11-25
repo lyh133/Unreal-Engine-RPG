@@ -16,7 +16,7 @@ fully modular character imported from DazStudio
 ### Animation System
 
 8 Ways strafe movement with start and stop  
-walk jog sprint
+walk jog sprint implemented with distance matching
 
 ▶️
 
