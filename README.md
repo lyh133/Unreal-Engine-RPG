@@ -18,7 +18,7 @@ fully modular character imported from DazStudio
 8 Ways strafe movement with start and stop  
 walk jog sprint
 
-# Watch the Video
+▶️
 
 [![8 Ways strafe movement](https://img.youtube.com/vi/iFtPwbyxWeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
 
