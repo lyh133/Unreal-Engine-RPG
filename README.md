@@ -4,6 +4,7 @@
 - [Animation System](#player)
   - [8 Ways strafe movement](#Strafe-Locomotion)
   - [Free camera locomotion](#Free-camera-locomotion)
+  - [Ragdoll Animation](#Ragdoll-Animation)
 - [AI](#ai)
 - [Abilities](#abilities)
 
@@ -30,6 +31,10 @@ implemented with turning animation, start and stop
 ▶️Click to Play
 
 [![free camera locomotion](https://img.youtube.com/vi/_K6sNZNwI1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=_K6sNZNwI1U)
+
+▶️Click to Play
+
+[![Ragdoll Animation](https://img.youtube.com/vi/DfBtOjgbt3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=DfBtOjgbt3k)
 
 ### Combat System
 Details...
